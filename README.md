@@ -53,8 +53,5 @@ insurance-claims-analytics/
 └── 📄 README.md
     └── Project documentation
 
-"C:\Users\prave\OneDrive\Desktop\01.jpeg"
-"C:\Users\prave\OneDrive\Desktop\03.jpeg"
-"C:\Users\prave\OneDrive\Desktop\02.jpeg"
-https://1drv.ms/i/c/6c621bf2db7334ed/IQCanfBq9-eqR5uvaq19OAghASZzpn3KLWSU9ogGhDuW9gM?e=f1ZEg6
+
 
