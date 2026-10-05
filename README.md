@@ -54,6 +54,10 @@ insurance-claims-analytics/
     └── Project documentation
 ```
 
-## 📈 Claim Insights
+## 📈 Visual Insights
 
 ![Average Claim Amount by Smoking Status](assets/smoking-status-analysis.svg)
+
+![Average Claim Amount by Region](assets/region-claim-comparison.svg)
+
+![Claim Amount by Age Group](assets/age-group-analysis.svg)
