@@ -52,3 +52,5 @@ insurance-claims-analytics/
 │
 └── 📄 README.md
     └── Project documentation
+<img width="1600" height="967" alt="03" src="https://github.com/user-attachments/assets/6dbd5f4d-f664-463a-b865-26c617aae98c" />
+
