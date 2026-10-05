@@ -2,7 +2,7 @@
 
 A SQL-based project to analyze medical insurance claims and identify patterns in claim amounts.
 
-🚀 **Recently Built | October 2026**
+🚀 **Recently Built | October 6 2026**
 
 ## 🎯 Objective
 Analyze insurance claims based on:
