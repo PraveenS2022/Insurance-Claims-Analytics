@@ -52,6 +52,8 @@ insurance-claims-analytics/
 │
 └── 📄 README.md
     └── Project documentation
+```
 
+## 📈 Claim Insights
 
-
+![Average Claim Amount by Smoking Status](assets/smoking-status-analysis.svg)
