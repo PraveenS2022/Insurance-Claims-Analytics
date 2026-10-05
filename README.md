@@ -53,9 +53,8 @@ insurance-claims-analytics/
 └── 📄 README.md
     └── Project documentation
 
-<img width="1600" height="943" alt="01" src="https://github.com/user-attachments/assets/488402a5-8e45-4096-aff3-1f7c2780edfb" />
-<img width="1600" height="943" alt="02" src="https://github.com/user-attachments/assets/41e7b7b6-2a9a-4754-8ab5-41a16598fb51" />
-<img width="1600" height="967" alt="03" src="https://github.com/user-attachments/assets/d9b03076-5e06-4954-9b5c-f14b502709d9" />
-
-
+"C:\Users\prave\OneDrive\Desktop\01.jpeg"
+"C:\Users\prave\OneDrive\Desktop\03.jpeg"
+"C:\Users\prave\OneDrive\Desktop\02.jpeg"
+https://1drv.ms/i/c/6c621bf2db7334ed/IQCanfBq9-eqR5uvaq19OAghASZzpn3KLWSU9ogGhDuW9gM?e=f1ZEg6
 
